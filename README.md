@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingfanh)](https://github.com/pingfanh)
+![Pingfanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingfanh&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pingfanh&hide=glsl,css,scss,html,vue)](https://github.com/anuraghazra/github-readme-stats)
